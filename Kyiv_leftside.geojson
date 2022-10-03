@@ -9,7 +9,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subarea": "Троещина"
+        "name_ru": "Троещина",
+        "name_uk": "Троєщина"
       },
       "geometry": {
         "type": "Polygon",
@@ -143,7 +144,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subdistrict": "Воскресенка"
+        "name_ru": "Воскресенка",
+        "name_uk": "Воскресенка"
       },
       "geometry": {
         "type": "Polygon",
@@ -265,7 +267,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subdistrict": "Радужный"
+        "name_ru": "Радужный",
+        "name_uk": "Радужний"
       },
       "geometry": {
         "type": "Polygon",
@@ -355,7 +358,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subdistrict": "Левобережка"
+        "name_ru": "Левобережка",
+        "name_uk": "Лівобережка"
       },
       "geometry": {
         "type": "Polygon",
@@ -441,7 +445,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subdistrict": "Лесной"
+        "name_ru": "Лесной",
+        "name_uk": "Лісовий"
       },
       "geometry": {
         "type": "Polygon",
@@ -559,7 +564,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subdistrict": "Русановка"
+        "name_ru": "Русановка",
+        "name_uk": "Русанівка"
       },
       "geometry": {
         "type": "Polygon",
@@ -633,7 +639,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subdistrict": "Позняки"
+        "name_ru": "Позняки",
+        "name_uk": "Позняки"
       },
       "geometry": {
         "type": "Polygon",
@@ -699,7 +706,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "subdistrict": "Осокорки"
+        "name_ru": "Осокорки",
+        "name_uk": "Осокорки"
       },
       "geometry": {
         "type": "Polygon",
